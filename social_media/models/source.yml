@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: snowflake_source
+    database: DATA_DB
+    schema: MINI_PROJECT_DATA       
+    tables:
+      - name: products1
+      - name: customers1
+      - name: transaction1
