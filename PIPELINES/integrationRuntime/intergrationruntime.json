@@ -1,0 +1,7 @@
+{
+	"name": "intergrationruntime",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "i am creating the integration run time inorder to connect with my on premises server"
+	}
+}
